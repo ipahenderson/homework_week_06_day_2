@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library Homework .iml" filepath="$PROJECT_DIR$/.idea/modules/Library Homework .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library_Homework_.iml" filepath="$PROJECT_DIR$/.idea/modules/Library_Homework_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library_Homework__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Library_Homework__main.iml" group="Library_Homework_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library_Homework__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Library_Homework__test.iml" group="Library_Homework_" />
+    </modules>
+  </component>
+</project>
